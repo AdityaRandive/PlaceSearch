@@ -1,0 +1,22 @@
+{
+  "name": "placesearch",
+  "version": "1.0.0",
+  "description": "Simple Web App for searching places using Google Maps and Places API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaRandive/PlaceSearch.git"
+  },
+  "author": "Aditya Randive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaRandive/PlaceSearch/issues"
+  },
+  "homepage": "https://github.com/AdityaRandive/PlaceSearch#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
