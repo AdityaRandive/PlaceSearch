@@ -1,6 +1,6 @@
 # PlaceSearch
 
-Instructions for running the code after clong the repository:
+Instructions for running the code after cloning the repository:
 
 ```
 > npm install express
