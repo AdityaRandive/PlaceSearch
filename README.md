@@ -2,9 +2,15 @@
 
 Instructions for running the code after clong the repository:
 
+```
 > npm install express
+```
+```
 > npm install
+```
+```
 > node index.js
+```
 
 Please open: http://localhost:8080 in web browser to check the web app.
 
